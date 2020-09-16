@@ -8,6 +8,10 @@
         "url": "/tags"
     },
     {
+        "label": "projects",
+        "url": "/Projects"
+    },
+    {
         "label": "GitHub",
         "url": "https://github.com/dafiulh/vredeburg",
         "newTab": true
